@@ -1,1 +1,2 @@
-0x02 shell 10 redirections and filters
+#!/bin/bash
+0x02 shell redirections and filters
